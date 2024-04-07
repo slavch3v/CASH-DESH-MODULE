@@ -1,0 +1,2 @@
+BGN Balance: 1600.00, Denominations: 50x20, 10x60
+EUR Balance: 2000.00, Denominations: 50x20, 100x10
